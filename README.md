@@ -12,6 +12,12 @@ Primeiro desafio da Trilha de CSS da DIO! Nela, construí minha primeira Landing
 * [HTML](https://www.w3.org/html/) - Linguagem de Marcação
 * [CSS](https://www.w3.org/Style/CSS/) - Linguagem de Estilização
 
+<h2>📦 Temas abordados</h2>
+
+- Fundamentos do CSS
+- Flexbox
+- Tratamento de imagens e backgrounds
+
 ## ✒️ Autor
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/50595987?s=400"/>
